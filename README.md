@@ -5,4 +5,4 @@
 - 📫 How to reach me: 6660347@gmail.com
 - ✈️ Telegram: @go233tom
 - 😄 Pronouns: Tom
-- ⚡ Fun fact: Web App Penetration Testing
+- ⚡ Fun fact: Take a good sleep
