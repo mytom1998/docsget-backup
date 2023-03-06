@@ -8,7 +8,7 @@
 
 <!-- tabs:start -->
 # Github Stats
-[![Tom's GitHub stats](https://github-readme-stats.vercel.app/api?username=go233tom)](https://github.com/go233tom/go233tom)
+[![Tom's GitHub stats](https://github-readme-stats.vercel.app/api?username=go233tom)](https://github.com/go233tom)
 
 <!-- tabs:end -->
 
