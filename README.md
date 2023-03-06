@@ -7,11 +7,8 @@
 [关于我](https://www.go233.com/#/about)｜[许可协议](https://www.go233.com/#/permit) | [归档](https://www.go233.com/#/keep)
 
 <!-- tabs:start -->
-一个从爱好Typecho的退役博主，由于博客不时遭到CC流量攻击因此转换为MD文档，同时归档更多有意义的原创文章。
-
-
-![boke](https://www.go233.com/docs/static/img/tom-boke.png)
-![google-site](https://www.go233.com/docs/static/img/google-site.png)
+- Github Stats
+[![Tom's GitHub stats](https://github-readme-stats.vercel.app/api?username=go233tom)](https://github.com/go233tom/go233tom)
 
 <!-- tabs:end -->
 
