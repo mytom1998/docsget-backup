@@ -15,7 +15,5 @@
 [联络我](https://docsget.com/#/message) |  [打赏](https://www.go233.com/#/reward) 
 
 [![logo](https://docsget.com/docs/static/img/logo.svg)]()
-
-
-[![copyright](https://docsget.com.com/docs/static/img/copyright.svg)]()
+[![copyright](https://docsget.com/docs/static/img/copyright.svg)]()
 [![icp](https://docsget.com/docs/static/img/moe-icp.svg)](https://icp.gov.moe/?keyword=20237771)
