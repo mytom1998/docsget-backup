@@ -18,12 +18,12 @@
 本网站采用 CC BY-NC/SA 4.0为许可协议;
 非商业性知识共享许可。
 
-👉🏻 [Details](permit)
+👉🏻 [Details](permit.md)
 
 #### Donate
 *如果你认为docsget对您有帮助或我的工作有价值，请考虑捐款。如果您能帮助我，我很高兴。*
 
-[buy a cup of Milktea](reward).❤️
+[buy a cup of Milktea](reward.md).❤️
 ***
 
 <!-- tabs:Stats -->
@@ -32,6 +32,6 @@
 
 <!-- tabs:end -->
 #### Intangible Assets
-[![logo](./static/img/logo.svg)]()
-[![copyright](./static/img/copyright.svg)]()
-[![icp](./static/img/moe-icp.svg)](https://icp.gov.moe/?keyword=20237771)
+[![logo](https://raw.githubusercontent.com/docsget/docsget/main/usr/uploads/img/logo.png)](#)
+[![copyright](https://raw.githubusercontent.com/docsget/docsget/8398f5e0f794db11ff860f233af879f87f7f685d/docs/static/img/copyright.svg)](#)
+[![icp](https://raw.githubusercontent.com/docsget/docsget/ad425d1330897fb1a1aab9090705c4106f39f7b1/docs/static/img/moe-icp.svg)](https://icp.gov.moe/?keyword=20237771)
