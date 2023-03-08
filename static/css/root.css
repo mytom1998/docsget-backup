@@ -1,0 +1,38 @@
+:root {
+	--inis-bg:#fff;
+	--inis-match:#f5fbff;
+	--font-color:#58666e;
+	--inis-primary: #50b5ff;
+	--blue:#2c8ef8;
+	--indigo:#727cf5;
+	--purple:#6b5eae;
+	--pink:#ff679b;
+	--red:#fa5c7c;
+	--orange:#fd7e14;
+	--yellow:#ffbc00;
+	--green:#0acf97;
+	--teal:#02a8b5;
+	--cyan:#39afd1;
+	--white:#fff;
+	--gray:#98a6ad;
+	--gray-dark:#343a40;
+	--primary:#727cf5;
+	--secondary:#6c757d;
+	--success:#0acf97;
+	--info:#39afd1;
+	--warning:#ffbc00;
+	--danger:#fa5c7c;
+	--light:#e3eaef;
+	--dark:#313a46;
+	--breakpoint-xs:0;
+	--breakpoint-sm:576px;
+	--breakpoint-md:768px;
+	--breakpoint-lg:992px;
+	--breakpoint-xl:1200px;
+	--font-family-sans-serif:"Nunito",sans-serif;
+	--font-family-monospace:SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;
+	--docsifytabs-border-color: #ededed;
+	--docsifytabs-tab-highlight-color: purple;
+	--api-get: #42b983;
+	--api-request: #727cf5;
+}
