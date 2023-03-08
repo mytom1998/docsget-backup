@@ -8,7 +8,7 @@
 
 可参考我的配置图进行设置
 
-![cloudflare-cache](https://docsget.com/usr/uploads/img/cache.png)
+![cloudflare-cache](https://raw.githubusercontent.com/docsget/docsget/main/usr/uploads/img/cache.png)
 
 由于该配置是在之前博客系统的环境下所设置的所以目前已经是闭关状态，然而有需求的话可以设置此功能让源服务器遭受CC攻击的时候也能让客户端浏览到站点内容，并不会直接出现5xx错误。
 
