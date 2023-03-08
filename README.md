@@ -18,12 +18,12 @@
 本网站采用 CC BY-NC/SA 4.0为许可协议;
 非商业性知识共享许可。
 
-👉🏻 [Details](permit)
+👉🏻 [Details](https://docsget.com/permit)
 
 #### Donate
 *如果你认为docsget对您有帮助或我的工作有价值，请考虑捐款。如果您能帮助我，我很高兴。*
 
-[buy a cup of Milktea](reward).❤️
+[buy a cup of Milktea](https://docsget.com/reward).❤️
 ***
 
 <!-- tabs:Stats -->
@@ -32,6 +32,6 @@
 
 <!-- tabs:end -->
 #### Intangible Assets
-[![logo](./static/img/logo.svg)]()
-[![copyright](./static/img/copyright.svg)]()
-[![icp](./static/img/moe-icp.svg)](https://icp.gov.moe/?keyword=20237771)
+[![logo](https://docsget.com/static/img/logo.svg)]()
+[![copyright](https://docsget.com/static/img/copyright.svg)]()
+[![icp](https://docsget.com/static/img/moe-icp.svg)](https://icp.gov.moe/?keyword=20237771)
