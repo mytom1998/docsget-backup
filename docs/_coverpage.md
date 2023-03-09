@@ -4,5 +4,5 @@
 
 * No statically built html files
 
-[GiHub](https://github.com/tom1998/docsget)
+[GiHub](https://github.com/mytom1998/docsget)
 [Getting Started](?id=docsget)
