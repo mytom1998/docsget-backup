@@ -33,7 +33,6 @@
         <div id="app">加载中，请稍候……</div>
         <script>
             window.$docsify = {
-            //  homepage: 'https://fastly.jsdelivr.net/gh/mytom1998/docsget@master/README.md',
                 loadSidebar: true,
                 loadNavbar: true,
                 coverpage: true,
@@ -61,7 +60,7 @@
                 },
                 //底部footer
                 plugins: [function(hook) {
-                    var footer = ['<hr/>', '<footer>', '<span>Copyright © 2021-2023.</span>','<span>  Powered by <a href="https://docsget.com/" target = "_blank">dosget</a>.  </span>', '<p>','<span></footer>'].join('')
+                    var footer = ['<hr/>', '<footer>','<span>  Powered by <a href="https://docsget.com/" target = "_blank">dosget</a>.  </span>', '<p>','<span></footer>'].join('')
 
                     hook.afterEach(function(html) {
                         return html + footer
