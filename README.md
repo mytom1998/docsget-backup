@@ -31,5 +31,3 @@
 <!-- tabs:end -->
 #### Intangible Assets
 [![logo](https://raw.githubusercontent.com/docsget/docsget/main/usr/uploads/img/logo.png)](#)
-[![copyright](https://raw.githubusercontent.com/docsget/docsget/8398f5e0f794db11ff860f233af879f87f7f685d/docs/static/img/copyright.svg)](#)
-[![icp](https://raw.githubusercontent.com/docsget/docsget/ad425d1330897fb1a1aab9090705c4106f39f7b1/docs/static/img/moe-icp.svg)](https://icp.gov.moe/?keyword=20237771)
