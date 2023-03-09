@@ -27,8 +27,6 @@
 ***
 
 <!-- tabs:Stats -->
-#### Github Stats
-[![docsget's GitHub stats](https://github-readme-stats.vercel.app/api?username=mytom1998)](https://github.com/mytom1998)
 
 <!-- tabs:end -->
 #### Intangible Assets
